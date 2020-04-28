@@ -1,0 +1,15 @@
+@media (max-width: 800px) {
+    .vheader {
+        display: inline-block;
+    }
+    .header_photo {
+        display: none;
+    }
+    .wrapper_item {
+        max-width: 45%;
+    }
+    h1 {
+        font-size: 20px;
+        text-align: center;
+    }
+}
