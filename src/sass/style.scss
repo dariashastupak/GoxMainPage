@@ -30,8 +30,11 @@
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    align-items: center;
+    align-items: flex-start;
     padding-bottom: 30px;
+}
+.voodoo {
+    align-self: center;
 }
 .wrapper_item {
     margin-top: 20px;
